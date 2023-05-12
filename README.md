@@ -23,7 +23,7 @@ Para utilizar BitteDanLesYoux, sigue estos pasos:
   -  Descarga el repositorio de GitHub.
   -  Importa el proyecto en Eclipse.
   -  Configura Tomcat en Eclipse.
-  -  Configura la conexión a la base de datos MySQL usando el usuario "Admin" y la contraseña "admin1234".
+  -  Configura la conexión a la base de datos MySQL con el archivo "bdlydb2" usando el usuario "Admin" y la contraseña "admin1234".
   -  Ejecuta el proyecto en Eclipse.
   -  Abre un navegador y ve a la dirección http://localhost:8080/BitteDanLesYoux.
 
